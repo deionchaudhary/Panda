@@ -14,6 +14,7 @@ void draw ()
   ellipse(300,130,70,50);
   ellipse(300,200,50,50);
   triangle(250,270,220,250,280,250);
+  line(200,300,300,300);
   
 }
 //download processing 3 on computer
